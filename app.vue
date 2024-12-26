@@ -5,6 +5,7 @@
         <NuxtPage />
       </v-container>
     </v-main>
+    <GlobalSnackbar />
   </v-app>
 </template>
 
